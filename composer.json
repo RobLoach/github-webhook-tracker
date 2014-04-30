@@ -1,0 +1,11 @@
+{
+    "name": "robloach/github-webhook",
+    "description": "GitHub Webhook Tracker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Loach",
+            "email": "robloach@gmail.com"
+        }
+    ]
+}
